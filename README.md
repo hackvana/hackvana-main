@@ -1,4 +1,4 @@
 hackvana-main
 =============
 
-A repository of files interesting to Hackvana customers.
+A repository of files of interest to Hackvana customers.
